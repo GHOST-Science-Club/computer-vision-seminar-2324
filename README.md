@@ -1,5 +1,7 @@
 # Computer Vision Seminar 2023/2024
 
+![logo](resources/logo.png)
+
 Repozytorium zawiera slajdy przygotowane w ramach Seminarium z Wizji Komputerowej w semestrze zimowym 2023 i semestrze letnim 2024.
 
 Na ostatnim slajdzie każdej prezentacji znajdują się przydatne linki, w tym między innymi
