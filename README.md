@@ -24,6 +24,9 @@ slides
 ├── 10_CV_SEM_24_LTH.pdf        Lottery Ticket Hypothesis
 └──  11_CV_SEM_24_YOLO.pdf      YOLO
 ```
+Dodatkowo, jako wstęp do czytania artykułów naukowych, poniżej zndajduje się plan pracy w grupach nad artykułem U-Net.
+
+[Czytanie artykułu naukowego w grupie – tutorial](https://docs.google.com/document/d/15jx_YFxZSDItHdgVnv0WzYS_dO1NF6mqxiWD75PMIac/edit?usp=sharing)
 
 ### Credits:
 
